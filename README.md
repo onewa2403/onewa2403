@@ -2,7 +2,7 @@
 
 ## I am a new Video Game Developer !
 - 👀 I’m interested in learning indie games development (backend, networking)
-- 🌱 I’m currently learning Unity: https://learn.unity.com/u/onewa2403
+- 🌱 I’m currently learning Unity, having 5+ years of C# experience
 - 👨‍💻 I’m looking to collaborate on indie or open sources projects
 - 🎮 My first ever game: https://onewa2403.github.io/my-first-game/
 
