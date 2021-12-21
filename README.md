@@ -6,13 +6,13 @@
 - 👨‍💻 I’m looking to collaborate on indie or open sources projects
 - 🎮 My first ever game: https://onewa2403.github.io/my-first-game/
 
-## Connect with me:
+### Connect with me:
 
 [<img align="left" alt="onewa2403 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
-## Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="C#" width="52px" src="https://user-images.githubusercontent.com/53059733/146881283-d97c8e2e-2234-4b6f-92f3-0724b273786e.png" />
 <img align="left" alt="Unity" width="52px" src="https://user-images.githubusercontent.com/53059733/146881118-6c21a6dc-fd53-4953-8886-cf80b5b6ee20.png" />
