@@ -22,6 +22,8 @@
 <br />
 <br />
 
+---
+
 <img align="left" alt="Onewa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=onewa2403&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/onewa2403
