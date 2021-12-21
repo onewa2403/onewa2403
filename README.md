@@ -22,9 +22,9 @@
 <br />
 <br />
 
----
-
 <img align="left" alt="Onewa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=onewa2403&show_icons=true&hide_border=true" />
+
+52px
 
 <!---
 onewa2403/onewa2403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
