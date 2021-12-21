@@ -1,4 +1,4 @@
-### Hi there, I'm Onewa ( @onewa2403) 👋
+### Hi there, I'm Onewa (@onewa2403) 👋
 
 ## I am a Video Game Developer !
 - 👀 I’m interested in learning indie games development (backend, networking)
