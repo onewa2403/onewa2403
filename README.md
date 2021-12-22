@@ -6,12 +6,6 @@
 - 👨‍💻 I’m looking to collaborate on indie or open sources projects
 - 🎮 My first ever game: https://onewa2403.github.io/my-first-game/
 
-### Connect with me:
-
-[<img align="left" alt="onewa2403 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
-
 ### Languages and Tools:
 
 - C#
