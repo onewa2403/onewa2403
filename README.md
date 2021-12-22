@@ -6,13 +6,6 @@
 - 👨‍💻 I’m looking to collaborate on indie or open sources projects
 - 🎮 My first ever game: https://onewa2403.github.io/my-first-game/
 
-### Languages and Tools:
-
-- C#
-- Unity
-- GitHub
-- Git
-
 ---
 
 <img align="left" alt="Onewa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=onewa2403&show_icons=true&hide_border=true" />
